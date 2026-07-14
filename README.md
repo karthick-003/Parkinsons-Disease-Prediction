@@ -25,4 +25,5 @@ The goal of this project is to leverage non-invasive vocal biomarkers to assist 
 Parkinsons-Disease-Prediction/
 │
 ├── Parkinson's_Disease_Prediction.ipynb  # Jupyter Notebook with complete end-to-end ML workflow
+├── parkinsons.xls                        # Raw clinical vocal biometric dataset
 └── README.md                             # Comprehensive project documentation
